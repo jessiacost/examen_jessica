@@ -1,0 +1,14 @@
+{
+  "name": "examen_jessica",
+  "version": "1.0.0",
+  "description": "esta es una app de linea de comando",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jessi Acost",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}
